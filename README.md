@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer in Training | Automation, Networking & Security
 ---------------------------------------------------------
 
-* 🌍  I'm based in I'm based in Tunisia.
+* 🌍  I'm based in Tunisia.
 * ✉️  You can contact me at linatriki@outlook.com
 * 🧠  I'm currently learning Ethical Hacking, Networking, and Game Development.
 * 👥  I'm looking to collaborate on interesting projects, especially related to BI, development, or security.
